@@ -9,4 +9,6 @@
 
 [職質裁判一審で不当判決、曰く、110番通報を要請することは不審事由にあたる ](https://ezoeryou.github.io/blog/article/2019-03-13-calling-110-is-suspicious.html)
 
+# 控訴審判決の資料
 
+判決文:[https://ezoeryou.github.io/calling-110-is-suspicious/20191114_kousosin_hanketusyo.pdf](https://ezoeryou.github.io/calling-110-is-suspicious/20191114_kousosin_hanketusyo.pdf)
